@@ -1,5 +1,5 @@
 ---
-bigimg: "/img/slime.jpg"
+bigimg: "/uploads/:year:/:month:/:day:/slime.jpg"
 comments: true
 date: 2017-07-13 08:46
 layout: post
