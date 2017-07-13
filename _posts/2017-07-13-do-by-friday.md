@@ -1,13 +1,13 @@
 ---
+bigimg: "/img/slime.jpg"
+comments: true
+date: 2017-07-13 08:46
 layout: post
 show-avatar: true
-comments: true
 social-share: true
-title: Do By Friday
-date: 2017-07-13 08:46
 subtitle: Making slime
-bigimg: https://img.wonderhowto.com/img/original/09/12/63482523830477/0/634825238304770912.jpg
 tags: []
+title: Do By Friday
 ---
 
 
