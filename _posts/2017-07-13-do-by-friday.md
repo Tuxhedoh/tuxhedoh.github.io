@@ -15,4 +15,4 @@ I'm a fan of podcasts. This morning's podcast listening brought to you by Alexa 
 
 In any case, I've listened to Up First and 2 episodes of Mogul:The Chris Lighty story, but just the "extras", not the full episodes. And now I'm listening to Do By Friday.  DBF features Merlin Mann of 43 Folders, and Alex Cox and Max Temkin of Cards Against Humanity.  Their witty banter about geeky topics, sometimes boardgames, internet personalities, politics, and general goof-offery are entertaining but the show is frequently too long.   Today they are making slime.
 
-Why do I care to share? I dunno. It's something to do
+Why do I care to share? I dunno. It's something to dott
