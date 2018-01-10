@@ -1,0 +1,65 @@
+---
+pages:
+- _posts/accepted-to-the-udacity-grow-with-google.md
+- _posts/gotham-girl-blue.md
+- _posts/2017-07-28-github-blog-post.md
+- _posts/2017-07-13-do-by-friday.md
+- _posts/2017-08-01-trying-the-mobile-site.md
+- _posts/2017-02-21--posts-cs.md
+- _posts/2017-07-11-trying-out-forestry.md
+- _posts/2015-02-26-flake-it-till-you-make-it.md
+- _posts/2015-02-20-test-markdown.md
+- _posts/2015-02-13-hamlet-monologue.md
+- _posts/2015-01-27-dear-diary.md
+- _posts/2015-01-19-soccer.md
+- _posts/2015-01-15-pirates.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: 2017-08-02 00:26:45 +0000
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: bigimg
+  label: Bigimg
+  type: text
+  hidden: false
+  default: ''
+- name: show-avatar
+  label: Show avatar
+  type: boolean
+  hidden: false
+  default: true
+- name: comments
+  label: Comments
+  type: boolean
+  hidden: false
+  default: true
+- name: social-share
+  label: Social share
+  type: boolean
+  hidden: false
+  default: true
+- type: image_gallery
+  name: gallery_1
+  label: Gallery 1
