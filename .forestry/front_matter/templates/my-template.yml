@@ -1,0 +1,9 @@
+---
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: Date
+  hidden: false
+  default: Invalid date
+- type: textarea
