@@ -1,6 +1,7 @@
 ---
-layout: Daily Podcasts
-title: I listen to things daily...
+layout: posts
+title: Daily Podcasts
+subtitle: I listen to things daily...
 tags: [musings, random, podcasts]
 ---
 I always like to introduce people to podcasts. Lately I've more or less got a "daily" routine of podcasts I listen to.  My podcast player of choice is [PocketCasts](https://www.shiftyjelly.com/pocketcasts/). They have a web-based player in addition to an app for both Android and iOS. The thing I like about it is that it is able to sync between devices no matter where you're listening to programs.
