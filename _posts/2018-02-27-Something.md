@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Daily Podcasts
 subtitle: I listen to things daily...
 tags: [musings, random, podcasts]
