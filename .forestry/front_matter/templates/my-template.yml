@@ -2,6 +2,7 @@
 pages:
 - new-page-using-my-template.md
 hide_body: false
+is_partial: false
 fields:
 - type: datetime
   name: date
